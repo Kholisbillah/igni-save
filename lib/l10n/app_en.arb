@@ -1,0 +1,178 @@
+{
+  "@@locale": "en",
+  "appName": "IgniSave",
+  "welcomeBack": "WELCOME BACK",
+  "ownYourMoney": "Own Your Money,",
+  "shapeYourLife": "Shape Your Life.",
+  "tagline": "From saving smart to spending wise, your financial goals begin to rise.",
+  "login": "Log In",
+  "signUp": "Sign Up",
+  "emailAddress": "EMAIL ADDRESS",
+  "emailHint": "name@example.com",
+  "password": "PASSWORD",
+  "passwordHint": "Create a password",
+  "confirmPassword": "CONFIRM PASSWORD",
+  "confirmPasswordHint": "Repeat password",
+  "forgotPassword": "Forgot Password?",
+  "continueBtn": "Continue",
+  "signUpBtn": "Sign Up",
+  "orContinueWith": "OR CONTINUE WITH",
+  "orJoinWith": "OR JOIN WITH",
+  "google": "Google",
+  "apple": "Apple",
+  "termsAgreement": "By tapping Continue, you agree to our Terms and Privacy Policy.",
+  "signUpAgreement": "By signing up, you agree to IgniSave's Terms and Privacy Policy.",
+  
+  "onboarding1Title": "Save Your Money,",
+  "onboarding1Subtitle": "Shape Your Life.",
+  "onboarding1Desc": "Achieve your financial goals with a gamified experience that makes saving effortless and fun.",
+  
+  "onboarding2Title": "Achieve Goals with",
+  "onboarding2Subtitle": "Gamified Habits.",
+  "onboarding2Desc": "Level up your finances. Complete daily challenges and build streaks to reach your targets faster.",
+  
+  "onboarding3Title": "Join the",
+  "onboarding3Subtitle": "Community.",
+  "onboarding3Desc": "Connect with friends and family to motivate each other and celebrate your shared financial victories.",
+  
+  "next": "Next",
+  "skip": "Skip",
+  "getStarted": "Get Started",
+  
+  "home": "Home",
+  "goals": "Goals",
+  "leagues": "Leagues",
+  "profile": "Profile",
+  
+  "masterSaver": "MASTER SAVER",
+  "wealthWizard": "WEALTH WIZARD",
+  "totalLoot": "TOTAL LOOT",
+  "dailyStreak": "DAILY STREAK",
+  "days": "Days",
+  "keepFireBurning": "Keep the fire burning!",
+  "xpBonus": "+{xp} XP",
+  "@xpBonus": {
+    "placeholders": {
+      "xp": {"type": "int"}
+    }
+  },
+  
+  "activeGoals": "Active Goals",
+  "viewAll": "VIEW ALL",
+  "daysLeft": "{count} days left",
+  "@daysLeft": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "noLimit": "No limit",
+  
+  "newTarget": "NEW TARGET",
+  "save": "Save",
+  "initializeNewMission": "Initialize",
+  "newMission": "New Mission",
+  "missionDesc": "Define your objective and set the parameters.",
+  "missionName": "MISSION NAME",
+  "missionNameHint": "e.g. MacBook Pro M3",
+  "targetAmount": "TARGET AMOUNT",
+  "deadline": "DEADLINE",
+  "thirtyDays": "30 Days",
+  "threeMonths": "3 Months",
+  "sixMonths": "6 Months",
+  "missionBriefing": "MISSION BRIEFING",
+  "createTarget": "Create Target",
+  
+  "proofOfSaving": "PROOF OF SAVING",
+  "uploadProof": "Upload Proof",
+  "uploadProofDesc": "Take a photo of your savings or upload a digital receipt.",
+  "required": "REQUIRED",
+  "amountSaved": "AMOUNT SAVED",
+  "allocateTo": "ALLOCATE TO",
+  "manage": "Manage",
+  "target": "TARGET",
+  "safety": "SAFETY",
+  "lifestyle": "LIFESTYLE",
+  "emergency": "Emergency",
+  "vacation": "Vacation",
+  "streakBonus": "Streak Bonus",
+  "extendsStreak": "Extends your streak to {days} Days",
+  "@extendsStreak": {
+    "placeholders": {
+      "days": {"type": "int"}
+    }
+  },
+  "confirmAndSave": "Confirm & Save",
+  
+  "leaderboard": "Leaderboard",
+  "totalSavings": "Total Savings",
+  "highestStreak": "Highest Streak",
+  "privacyMode": "Privacy Mode",
+  "hideAmounts": "Hide amounts",
+  "daysLeftInLeague": "{count} Days Left",
+  "@daysLeftInLeague": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "silverLeague": "Silver League",
+  "goldLeague": "Gold League",
+  "rank": "RANK",
+  "you": "You",
+  "ptsToRank": "{pts} pts to Rank {rank}",
+  "@ptsToRank": {
+    "placeholders": {
+      "pts": {"type": "int"},
+      "rank": {"type": "int"}
+    }
+  },
+  
+  "settings": "Settings",
+  "account": "Account",
+  "editProfile": "Edit Profile",
+  "changePassword": "Change Password",
+  "notifications": "Notifications",
+  "savingsReminders": "Savings Reminders",
+  "achievementAlerts": "Achievement Alerts",
+  "leagueUpdates": "League Updates",
+  "privacyAndSecurity": "Privacy & Security",
+  "twoFactorAuth": "Two-Factor Authentication",
+  "privacyPolicy": "Privacy Policy",
+  "helpAndSupport": "Help & Support",
+  "helpCenter": "Help Center",
+  "contactUs": "Contact Us",
+  "logOut": "Log Out",
+  
+  "level": "Level {level}",
+  "@level": {
+    "placeholders": {
+      "level": {"type": "int"}
+    }
+  },
+  "xpToNextLevel": "${xp} to Lvl {level}",
+  "@xpToNextLevel": {
+    "placeholders": {
+      "xp": {"type": "int"},
+      "level": {"type": "int"}
+    }
+  },
+  "viewLevelRewards": "View Level Rewards",
+  "totalSaved": "TOTAL SAVED",
+  "streak": "STREAK",
+  "onFire": "On fire!",
+  "bestStreak": "BEST STREAK",
+  "league": "LEAGUE",
+  "trophyCase": "Trophy Case",
+  "seeAll": "SEE ALL",
+  "consistency": "Consistency",
+  "pastThreeMonths": "Past 3 Months",
+  "less": "Less",
+  "more": "More",
+  "shareStats": "Share Stats",
+  
+  "currency": "Currency",
+  "idr": "IDR",
+  "usd": "USD",
+  "language": "Language",
+  "english": "English",
+  "indonesian": "Bahasa Indonesia"
+}
